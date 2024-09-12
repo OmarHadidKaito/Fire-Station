@@ -1,0 +1,19 @@
+{
+  "name": "fire-station-simulation",
+  "version": "1.0.0",
+  "description": "A simulation for handling fire station calls with different employee levels and priorities.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Omar Hadid",
+  "license": "ISC"
+}

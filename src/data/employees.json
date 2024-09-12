@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Loay", "level": "junior" },
+    { "id": 2, "name": "Omar", "level": "senior" },
+    { "id": 3, "name": "Abd", "level": "manager" },
+    { "id": 4, "name": "Samer", "level": "director" }
+]
